@@ -1,0 +1,4 @@
+Lines 1–3 should be a familiar use of argv to get a fi lename. Next we have line 5 where we use a
+new command open. Right now, run pydoc open and read the instructions. Notice how like your
+own scripts and raw_input, it takes a parameter and returns a value you can set to your own
+variable. You just opened a fi le.
